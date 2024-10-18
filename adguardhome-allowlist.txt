@@ -2,8 +2,6 @@
 
 ## Photopea
 photopea.com
-@@||photopea.com^$document
 
 ## YouTube
 youtube.com
-@@||youtube.com^$document
