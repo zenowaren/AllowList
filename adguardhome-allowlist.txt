@@ -12,7 +12,7 @@
 # https://tech.ligthartnet.nl/allow-windows-update-through-pi-hole/
 
 ## Photopea
-potopea.com
+photopea.com
 
 ## YouTube
 youtube.com
